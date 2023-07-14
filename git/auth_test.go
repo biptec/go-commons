@@ -4,9 +4,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gruntwork-io/terratest/modules/docker"
-	terragit "github.com/gruntwork-io/terratest/modules/git"
-	"github.com/gruntwork-io/terratest/modules/random"
+	"github.com/biptec/terratest/modules/docker"
+	terragit "github.com/biptec/terratest/modules/git"
+	"github.com/biptec/terratest/modules/random"
 )
 
 func TestIntegrationGitAuth(t *testing.T) {

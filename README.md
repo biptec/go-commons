@@ -1,3 +1,7 @@
+***WARNING: THIS REPO IS AN AUTO-GENERATED COPY.*** *This repo has been copied from [Gruntwork’s](https://gruntwork.io/) GitHub repositories so that you can consume it from your company’s own internal Git repositories. This copy is automatically created and updated by the `repo-copier` CLI tool. If you need to make changes to this repo, you should make the changes in a separate fork, and NOT make changes directly in this repo, as otherwise, the `repo-copier` will overwrite your changes! Please see the `repo-copier` [documentation](https://github.com/biptec/repo-copier) for more information on how the code is copied, how cross-references are updated, how the changelog is handled, etc.*
+
+***
+
 [![Maintained by Gruntwork.io](https://img.shields.io/badge/maintained%20by-gruntwork.io-%235849a6.svg)](https://gruntwork.io/?ref=repo_go-commons)
 [![Go Report Card](https://goreportcard.com/badge/github.com/gruntwork-io/go-commons)](https://goreportcard.com/report/github.com/gruntwork-io/go-commons)
 [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/mod/github.com/gruntwork-io/go-commons?tab=overview)
@@ -46,8 +50,8 @@ package main
 
 import (
         "github.com/urfave/cli/v2"
-        "github.com/gruntwork-io/go-commons/entrypoint"
-        "github.com/gruntwork-io/go-commons/version"
+        "github.com/biptec/go-commons/entrypoint"
+        "github.com/biptec/go-commons/version"
 )
 
 func main() {

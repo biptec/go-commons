@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/gruntwork-io/go-commons/logging"
+	"github.com/biptec/go-commons/logging"
 )
 
 func TestDoWithRetry(t *testing.T) {

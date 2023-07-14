@@ -8,8 +8,8 @@ import (
 	"net/http"
 
 	"github.com/bradleyfalzon/ghinstallation"
-	"github.com/gruntwork-io/go-commons/entrypoint"
-	"github.com/gruntwork-io/go-commons/errors"
+	"github.com/biptec/go-commons/entrypoint"
+	"github.com/biptec/go-commons/errors"
 )
 
 // GithubAppConfig represents configuration settings for a Github App that can be used to authenticate to the Github
