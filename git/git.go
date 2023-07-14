@@ -1,8 +1,8 @@
 package git
 
 import (
-	"github.com/gruntwork-io/go-commons/files"
-	"github.com/gruntwork-io/go-commons/shell"
+	"github.com/biptec/go-commons/files"
+	"github.com/biptec/go-commons/shell"
 	"github.com/sirupsen/logrus"
 )
 

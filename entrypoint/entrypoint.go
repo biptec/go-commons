@@ -5,8 +5,8 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/gruntwork-io/go-commons/errors"
-	"github.com/gruntwork-io/go-commons/logging"
+	"github.com/biptec/go-commons/errors"
+	"github.com/biptec/go-commons/logging"
 )
 
 const defaultSuccessExitCode = 0

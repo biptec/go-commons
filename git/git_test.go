@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gruntwork-io/go-commons/files"
-	"github.com/gruntwork-io/go-commons/logging"
+	"github.com/biptec/go-commons/files"
+	"github.com/biptec/go-commons/logging"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

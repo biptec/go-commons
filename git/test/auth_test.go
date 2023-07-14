@@ -8,12 +8,12 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gruntwork-io/go-commons/files"
-	"github.com/gruntwork-io/go-commons/git"
-	"github.com/gruntwork-io/go-commons/logging"
-	"github.com/gruntwork-io/terratest/modules/environment"
-	ttlogger "github.com/gruntwork-io/terratest/modules/logger"
-	"github.com/gruntwork-io/terratest/modules/shell"
+	"github.com/biptec/go-commons/files"
+	"github.com/biptec/go-commons/git"
+	"github.com/biptec/go-commons/logging"
+	"github.com/biptec/terratest/modules/environment"
+	ttlogger "github.com/biptec/terratest/modules/logger"
+	"github.com/biptec/terratest/modules/shell"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
